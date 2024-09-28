@@ -7,12 +7,6 @@
   <img src="https://komarev.com/ghpvc/?username=hoorjaad&label=Profile%20views&color=0e75b6&style=flat" alt="hoorjaad profile views" /> 
 </p>
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=hoorjaad" alt="hoorjaad trophies" />
-  </a> 
-</p>
-
 - 🌱 I’m currently learning **Next.js**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://hoorjaad.github.io/portfolio/)
 - 💬 Ask me about **HTML, CSS, JavaScript, React**
