@@ -48,16 +48,11 @@ With over 5 years of professional experience, I bridge the gap between aesthetic
 <br>
 
 <h3 align="left">My GitHub Stats:</h3>
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=hoorjaad&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-    </td>
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hoorjaad&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hoorjaad&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hoorjaad&theme=radical" alt="Top Languages" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoorjaad&theme=radical" alt="GitHub Streak" />
